@@ -33,6 +33,15 @@ public class ErrorMsg implements Serializable {
     private String hint;
     private int code;
     private String msg;
+	private String str;
+	
+	public String getStr(){
+		
+	}
+	
+	public void setStr(String str){
+		this.str = str;
+	}
 
     /**
      * Gets code.

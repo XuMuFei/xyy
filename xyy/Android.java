@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * The type Error msg.
- *
+ * 修复了v1.0.0 中的bug
  * @description:
  * @author: xuyangyang
  * @email: xuyangyang @ebrun.com

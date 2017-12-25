@@ -654,6 +654,8 @@ public class ADEntry  implements Serializable{
         
         
     }
+	
+	//开始开发v1.1.0的版本 进行中
 
 	@Override
 	public String toString() {

@@ -5,3 +5,6 @@
 
 
 git  release
+
+git checkout dev 
+move add file.

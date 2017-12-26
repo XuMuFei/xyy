@@ -6,3 +6,13 @@
 
 git  release
 this is test.
+
+
+git checkout dev 
+move add file.
+
+在release分支上修改bug后,要同步到develop中和master.
+test in vim
+
+开始开发1.1.1版本
+
